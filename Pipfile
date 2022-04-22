@@ -11,9 +11,12 @@ black = "*"
 django = "*"
 pillow = "*"
 django-seed = "*"
+psycopg2-binary = "*"
+djangorestframework = "*"
+pyjwt = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
 
 [pipenv]
 allow_prereleases = true
